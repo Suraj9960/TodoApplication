@@ -1,0 +1,20 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.btn{
+	border-radius:17px;
+}
+.nav-item:hover{
+	border-radius:15px;
+	background-color:#03fc41;
+}
+/*Heading css*/
+.text{
+	font-weight:700;
+	text-shadow: 1px 1px 2px black;
+}
+.navbar-brand{
+	color:red;
+	text-shadow: 1px 1px 2px black;
+}

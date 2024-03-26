@@ -1,0 +1,1 @@
+insert into todo_app(ID,USERNAME,DESCRIPTION,TARGET_DATE,DONE)values(101,'suraj','JAVA',CURRENT_DATE(),false);
